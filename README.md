@@ -1,2 +1,2 @@
 # a3c
-a3c vanilla and further implementations for supercomputing seminar
+a3c vanilla and further implementations for supercomputing seminar spring semester 2018
