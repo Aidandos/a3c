@@ -1,2 +1,1 @@
-# a3c
-a3c vanilla and further implementations for supercomputing seminar spring semester 2018
+just some files, aggregated over time whilst working on an a3c implementation. This is by no means all of my work. This repo mainly serves the purpose of file sharing.
